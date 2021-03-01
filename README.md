@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Some Stuff About Me As a Programmer:
+Stuff I wanna share with you:
 
 - 🔭 I’m currently working on ruff-woof, a discord bot
 - 🌱 I’m currently learning python and java

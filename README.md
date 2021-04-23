@@ -8,4 +8,6 @@ Stuff I wanna share with you:
 - 📫 How to reach me: [Discord](https://discord.gg/xqAvA3g5qJ)
 - ⚡ Fun fact: I Know Nothing
 
+[Don't Click This!](https://acutewoof.github.io/youtube/index.html)
+
 [![ACuteWoof's GitHub stats](https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)

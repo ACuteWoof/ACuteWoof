@@ -1,3 +1,5 @@
+![ACuteWoof being made](https://user-images.githubusercontent.com/63534975/115952379-2a69e500-a503-11eb-9e8b-807c8853ae49.png)
+
 ### Hi there 👋
 
 Stuff I wanna share with you:

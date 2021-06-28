@@ -1,14 +1,29 @@
 ![ACuteWoof being made](https://user-images.githubusercontent.com/63534975/115952379-2a69e500-a503-11eb-9e8b-807c8853ae49.png)
 
-### Hi there 👋
+# Hi there 👋
+I am Woof
+am passionate about programming, and I play minecraft (kinda)
 
-Stuff I wanna share with you:
+## Software I use:
+```markdown
+Kernel                   GNU/Linux 5.11.0-7614-generic 
 
-- 🔭 I’m currently working on [Engrafa](https://engrafa.github.io/Our%20Team)
-- 🌱 I’m currently learning python and java
-- 💬 Ask me about python stuff
-- 📫 How to reach me: [Discord](https://discord.gg/xqAvA3g5qJ)
-- ⚡ Fun fact: I Know Nothing
+Disto                    Ubuntu 20.04 (too lazy to update)
+
+WM                       qtile
+
+GTK theme                Qogir-Dark
+
+Icon theme               Papirus
+
+Shell                    bash
+
+Code and text editor     vim
+
+Terminal                 xfce4-terminal
+
+Browser                  firefox
+```
 
 [Don't Click This!](https://acutewoof.github.io/youtube/index.html)
 

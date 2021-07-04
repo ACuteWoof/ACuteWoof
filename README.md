@@ -1,7 +1,8 @@
 ![ACuteWoof being made](https://user-images.githubusercontent.com/63534975/115952379-2a69e500-a503-11eb-9e8b-807c8853ae49.png)
 
 # Hi there 👋
-I am Woof
+I am Woof 
+<br>
 am passionate about programming, and I play minecraft (kinda)
 
 ## Software I use:

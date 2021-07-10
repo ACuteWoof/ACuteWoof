@@ -7,9 +7,9 @@ am passionate about programming, and I play minecraft (kinda)
 
 ## Software I use:
 ```markdown
-Kernel                   GNU/Linux 5.11.0-7614-generic 
+Kernel                   GNU/Linux 5.11.0-7620-generic
 
-Disto                    Ubuntu 20.04 (too lazy to update)
+Disto                    Pop OS 21.04
 
 WM                       qtile
 

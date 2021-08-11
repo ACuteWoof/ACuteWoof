@@ -9,21 +9,21 @@ am passionate about programming, and I play minecraft (kinda)
 ```markdown
 Kernel                   GNU/Linux 5.11.0-7620-generic
 
-Disto                    Pop OS 21.04
+Disto                    Pop_OS 21.04
 
 WM                       qtile
 
-GTK theme                Qogir-Dark
+GTK theme                orchis-dark-compact
 
-Icon theme               Papirus
+Icon theme               papirus-dark
 
 Shell                    bash
 
 Code and text editor     vim
 
-Terminal                 xfce4-terminal
+Terminal                 alacritty
 
-Browser                  firefox
+Browser                  google-chrome
 ```
 
 [Don't Click This!](https://acutewoof.github.io/youtube/index.html)

@@ -7,15 +7,15 @@ am passionate about programming, and I play minecraft (kinda)
 
 ## Software I use:
 ```markdown
-Kernel                   GNU/Linux 5.11.0-7620-generic
+Kernel                   5.13.11-1-MANJARO
 
-Disto                    Pop_OS 21.04
+Disto                    Manjaro Linux x86_64
 
 WM                       qtile
 
-GTK theme                orchis-dark-compact
+GTK theme                Matcha-dark-sea
 
-Icon theme               papirus-dark
+Icon theme               Papirus-Dark-Maia
 
 Shell                    bash
 
@@ -23,7 +23,7 @@ Code and text editor     vim
 
 Terminal                 alacritty
 
-Browser                  google-chrome
+Browser                  firefox
 ```
 
 [Don't Click This!](https://acutewoof.github.io/youtube/index.html)

@@ -17,7 +17,7 @@ GTK theme                Matcha-dark-sea
 
 Icon theme               Papirus-Dark-Maia
 
-Shell                    bash
+Shell                    zsh
 
 Code and text editor     vim
 

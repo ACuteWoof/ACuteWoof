@@ -3,5 +3,9 @@
     "name": "Github",
     "url": "https://github.com/",
     "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },{
+    "name": "Youtube",
+    "url": "https://youtube.com",
+    "img": "https://www.youtube.com/yts/img/favicon_144-vfliLAfaB.png"
   }]
 }

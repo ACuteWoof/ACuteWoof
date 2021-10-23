@@ -17,3 +17,15 @@
 ---
 
 My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can also be installed with pacman if you have the [Woof OS pacman repository](https://woof-os.github.io/woof-pacman-repo) added.
+
+---
+
+## Stuff I Use :P
+
+- Woof OS (OS)
+- Qtile (Window Manager)
+- Kitty (Terminal Emulator)
+- Vim (Text Editor)
+- Brave (Web Browser)
+- Discord (Chat)
+- Duckduckgo (Search Engine)

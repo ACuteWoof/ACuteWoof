@@ -48,7 +48,7 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 
 ## Stats
 
-![stat woof](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F49%2F4f%2Fe1494f4fab6524ee9d314f2eaa63f9c1.gif&f=1&nofb=1)
+![stat woof](https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&theme=nord)
 
 ## Trophies
 

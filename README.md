@@ -1,4 +1,4 @@
-# Hi! I am [ACuteWoof](https:/acutewoof.github.io/) ![woof]()
+# Hi! I am [ACuteWoof ](https:/acutewoof.github.io/) <img width="50px" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F76%2F4d%2Faf%2F764dafb1db8f39fc0f67baeee437895d.gif&f=1&nofb=1">
 
 ![Profile Views](https://api.ghprofile.me/view?username=acutewoof&color=2E3440&label=profile_views)
 <a href="https://github.com/ACuteWoof">

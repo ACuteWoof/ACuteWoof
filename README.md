@@ -21,6 +21,8 @@
 
 My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can also be installed with pacman if you have the [Woof OS pacman repository](https://woof-os.github.io/woof-pacman-repo) added.
 
+![Coffee](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)
+
 ---
 
 ## Stuff I Use :P
@@ -76,5 +78,3 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 <br>
 <br>
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&theme=nord">
-
-# That's it, Cya!

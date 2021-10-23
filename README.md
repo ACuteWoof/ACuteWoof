@@ -11,4 +11,4 @@
 
 ---
 
-My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can also be installed with pacman if you have the [Woof OS pacman repository added](https://woof-os.github.io/woof-pacman-repo)
+My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can also be installed with pacman if you have the [Woof OS pacman repository](https://woof-os.github.io/woof-pacman-repo) added.

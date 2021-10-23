@@ -7,8 +7,7 @@
 
 ![Profile Views](https://api.ghprofile.me/view?username=acutewoof&color=2E3440&label=profile_views)
 <a href="https://github.com/ACuteWoof">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acutewoof&layout=compact&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440" alt="frenzystreaks" />
+<img align="right" width="50%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2Fimages%2F4d641863b305acb3f6e6022fdfa299c0%2Ftenor.gif&f=1&nofb=1" alt="woof" />
 </a>
 
 - 😀 A guy who loves dogs, FOSS and code

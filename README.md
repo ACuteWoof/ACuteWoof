@@ -1,9 +1,4 @@
-# Hi! I am [ACuteWoof](https:/acutewoof.github.io/)
-
-<br>
-<img width="100%" style="margin: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=ACuteWoof&currStreakLabel=ECEFF4&sideLabels=D8DEE9&currStreakNum=caf6bb&sideNums=ECEFF4&dates=ECEFF4&ring=D8DEE9&fire=D8DEE9&stroke=caf6bb&background=2E3440">
-<br>
-<br>
+# Hi! I am [ACuteWoof](https:/acutewoof.github.io/) ![woof]()
 
 ![Profile Views](https://api.ghprofile.me/view?username=acutewoof&color=2E3440&label=profile_views)
 <a href="https://github.com/ACuteWoof">
@@ -50,6 +45,10 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 
 - [Woof Chat](https://github.com/acutewoof/woof-chat-docs)
 - Minecraft Server Using An Old Computer I Guess?
+
+## Stats
+
+![stat woof](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F49%2F4f%2Fe1494f4fab6524ee9d314f2eaa63f9c1.gif&f=1&nofb=1)
 
 ## Trophies
 

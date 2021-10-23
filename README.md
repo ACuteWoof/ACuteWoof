@@ -22,10 +22,10 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 
 ## Stuff I Use :P
 
-- Woof OS (OS)
-- Qtile (Window Manager)
-- Kitty (Terminal Emulator)
-- Vim (Text Editor)
-- Brave (Web Browser)
-- Discord (Chat)
-- Duckduckgo (Search Engine)
+- **Woof OS** (OS)
+- **Qtile** (Window Manager)
+- **Kitty** (Terminal Emulator)
+- **Vim** (Text Editor)
+- **Brave** (Web Browser)
+- **Discord** (Chat)
+- **Duckduckgo** (Search Engine)

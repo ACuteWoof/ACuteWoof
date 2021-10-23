@@ -4,7 +4,7 @@
 <a href="https://github.com/ACuteWoof">
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440">
 <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ACuteWoof&currStreakLabel=ECEFF4&sideLabels=D8DEE9&currStreakNum=caf6bb&sideNums=ECEFF4&dates=ECEFF4&ring=D8DEE9&fire=D8DEE9&stroke=caf6bb&background=2E3440">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440" alt="frenzystreaks" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acutewoof&layout=compact&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440" alt="frenzystreaks" />
 </a>
 
 - 😀 A guy who loves dogs, FOSS and code

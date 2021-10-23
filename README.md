@@ -2,9 +2,9 @@
 
 ![Profile Views](https://api.ghprofile.me/view?username=acutewoof&color=2E3440&label=profile_views)
 <a href="https://github.com/ACuteWoof">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=2E3440">
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ACuteWoof&currStreakLabel=E6DFB8&sideLabels=cddbf9&currStreakNum=caf6bb&sideNums=E6DFB8&dates=E6DFB8&ring=cddbf9&fire=cddbf9&stroke=caf6bb&background=2E3440">
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=E6DFB8&text_color=cddbf9&icon_color=caf6bb&bg_color=2E3440" alt="frenzystreaks" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440">
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ACuteWoof&currStreakLabel=ECEFF4&sideLabels=D8DEE9&currStreakNum=caf6bb&sideNums=ECEFF4&dates=ECEFF4&ring=D8DEE9&fire=D8DEE9&stroke=caf6bb&background=2E3440">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frenzyexists&layout=compact&title_color=ECEFF4&text_color=D8DEE9&icon_color=caf6bb&bg_color=2E3440" alt="frenzystreaks" />
 </a>
 
 - 😀 A guy who loves dogs, FOSS and code

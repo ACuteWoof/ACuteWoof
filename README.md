@@ -5,7 +5,7 @@
 <img align="right" width="50%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe1%2F49%2F4f%2Fe1494f4fab6524ee9d314f2eaa63f9c1.gif&f=1&nofb=1" alt="woof" style="border-radius: 5px"/>
 </a>
 
-<a href="https://discord.gg/9ZBmZYVrD3"><img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.gg/9ZBmZYVrD3"><img src="https://img.shields.io/badge/ACuteWoof%27s%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 
 - 😀 A guy who loves dogs, FOSS and code
 - 🦥 I procrastinate on school stuff

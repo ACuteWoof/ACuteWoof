@@ -2,10 +2,8 @@
 
 ![Profile Views](https://api.ghprofile.me/view?username=acutewoof&color=2E3440&label=profile_views)
 
-<div style="width:50%; align: left">
 - 😀 A guy who loves dogs, FOSS and code
 - 🦥 I procrastinate on school stuff
 - 🎮 I love to talk with friends in Discord and play Minecraft with them
 - 🐶 Dogs are the best, fight me
-- 💻 Currently using Woof OS 
-</div>
+- 💻 Currently using Woof OS

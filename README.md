@@ -77,6 +77,6 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 <br>
 <br>
 <br>
-<span align="center">
+<h3 align="center">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ACuteWoof&show_icons=true&theme=nord">
-</span>
+</h3>

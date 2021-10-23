@@ -29,3 +29,21 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 - **Brave** (Web Browser)
 - **Discord** (Chat)
 - **Duckduckgo** (Search Engine)
+
+## Projects Completed
+
+- [Woof OS](https://woof-os.github.io)
+- [Pacman Repository](https://woof-os.github.io/woof-pacman-repo)
+- [Wallpaper Changer](https://github.com/acutewoof/wallpaper-changer)
+- [Wallpaper Fetcher](https://github.com/acutewoof/fetch-walls)
+- [CSS Kit](https://github.com/acutewoof/minimalist-css-kit)
+
+## Projects In Progress
+
+- [Dot Files Setup Script](https://github.com/acutewoof/dot-files)
+- Woof OS [Plasma](https://github.com/woof-os/iso-profile-plasma) and [Sway](https://github.com/woof-os/iso-profile-sway) Editions
+
+## Projects To Do
+
+- [Woof Chat](https://github.com/acutewoof/woof-chat-docs)
+- Minecraft Server Using An Old Computer I Guess?

@@ -47,3 +47,7 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 
 - [Woof Chat](https://github.com/acutewoof/woof-chat-docs)
 - Minecraft Server Using An Old Computer I Guess?
+
+## Trophies
+
+![ACuteWoof has some stuff](https://github-profile-trophy.vercel.app/?username=acutewoof&theme=nord&no-frame=true&margin-w=20)

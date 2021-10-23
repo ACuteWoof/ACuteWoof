@@ -45,6 +45,7 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br>
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
+![Intel](https://img.shields.io/badge/intel-0071C5.svg?style=for-the-badge&logo=intel&logoColor=white)
 <br>
 
 <img align="left" width="50%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FKeQJaXuGvio5yrBWka%2Fgiphy.gif&f=1&nofb=1" alt="woof" style="border-radius: 5px"/>

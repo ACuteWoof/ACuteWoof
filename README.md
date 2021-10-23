@@ -1,6 +1,9 @@
 # Hi! I am [ACuteWoof](https:/acutewoof.github.io/)
 
-<img align="right" width="100%" style="margin: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=ACuteWoof&currStreakLabel=ECEFF4&sideLabels=D8DEE9&currStreakNum=caf6bb&sideNums=ECEFF4&dates=ECEFF4&ring=D8DEE9&fire=D8DEE9&stroke=caf6bb&background=2E3440">
+<br>
+<img width="100%" style="margin: 10%" src="https://github-readme-streak-stats.herokuapp.com/?user=ACuteWoof&currStreakLabel=ECEFF4&sideLabels=D8DEE9&currStreakNum=caf6bb&sideNums=ECEFF4&dates=ECEFF4&ring=D8DEE9&fire=D8DEE9&stroke=caf6bb&background=2E3440">
+<br>
+<br>
 
 ![Profile Views](https://api.ghprofile.me/view?username=acutewoof&color=2E3440&label=profile_views)
 <a href="https://github.com/ACuteWoof">

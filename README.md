@@ -18,8 +18,6 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 
 ---
 
-<img align="left" width="50%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FKeQJaXuGvio5yrBWka%2Fgiphy.gif&f=1&nofb=1" alt="woof" />
-
 ## Stuff I Use :P
 
 - **Woof OS** (OS)
@@ -30,6 +28,7 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 - **Discord** (Chat)
 - **Duckduckgo** (Search Engine)
 
+<img align="left" width="50%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2FKeQJaXuGvio5yrBWka%2Fgiphy.gif&f=1&nofb=1" alt="woof" />
 ## Projects Completed
 
 - [Woof OS](https://woof-os.github.io)

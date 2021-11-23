@@ -69,7 +69,6 @@ My Linux dot files are [here](https://github.com/acutewoof/dot-files), they can 
 ## Projects To Do
 
 - [Woof Chat](https://github.com/acutewoof/woof-chat-docs)
-- Minecraft Server Using An Old Computer I Guess?
 
 <br>
 <br>

@@ -6,7 +6,7 @@
 
 <a href="https://discord.gg/9ZBmZYVrD3"><img src="https://img.shields.io/badge/ACuteWoof%27s%20Community-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
 <br>
-![](https://lanyard.cnrad.dev/api/618114750827462660?idleMessage=A%20woof%20doing%20woof%20things&borderRadius=0)
+<img src="https://lanyard.cnrad.dev/api/618114750827462660?idleMessage=A%20woof%20doing%20woof%20things&borderRadius=0" align="left" width="40%">
 <br>
 <a href="https://youtube.com/acutewoof"><img src="https://img.shields.io/badge/ACuteWoof-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
 <a href="https://youtube.com/acodingwoof"><img src="https://img.shields.io/badge/ACodingWoof-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>

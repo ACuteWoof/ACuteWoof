@@ -1,7 +1,5 @@
 <h1 align="center">ACuteWoof</h1>
 
-<br />
-
 ## Projects
 
 - [Woof Music](https://woof-music.web.app) ([Repository](https://github.com/the-woofs/woof-music-r2))

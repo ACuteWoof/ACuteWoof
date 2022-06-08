@@ -7,11 +7,7 @@
 
 <div align="center">
 
----
-
 <h2 align="center">Projects</h2>
-
----
 
 [Woof Music](https://woof-music.web.app) ([Repository](https://github.com/the-woofs/woof-music-r2))
 
@@ -21,11 +17,7 @@
 
 <br />
 
----
-
 <h2 align="center">Organizations</h2>
-
----
 
 [Woofverse](https://github.com/the-woofs)
 
@@ -35,11 +27,7 @@
 
 <br />
 
----
-
 <h2 align="center">Socials</h2>
-
----
 
 [Youtube](https://youtube.com/acodingwoof)
 

@@ -1,5 +1,9 @@
 # ACuteWoof
 
+has no life
+
+---
+
 [Personal Site](https://acutewoof.is-a.dev/)
 
 [Kreatis.IO](https://kreatis.io/)

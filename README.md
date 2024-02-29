@@ -1,8 +1,5 @@
 # ACuteWoof
 
-has no life
-
----
 
 [Personal Site](https://acutewoof.is-a.dev/)
 

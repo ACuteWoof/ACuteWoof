@@ -1,15 +1,13 @@
 # ACuteWoof
 
 
-[Personal Site](https://acutewoof.is-a.dev/)
+[Personal Site](https://lewoof.xyz/)
 
 [Kreatis.IO](https://kreatis.io/)
 
-[Woof OS](https://woof-os.github.io)
+[Woof OS](https://os.lewoof.xyz)
 
 [Youtube](https://youtube.com/acodingwoof)
-
-[Discord](https://discord.gg/9ZBmZYVrD3)
 
 ---
 

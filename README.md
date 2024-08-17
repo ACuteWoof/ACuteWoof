@@ -31,8 +31,8 @@ Woof OS is a simple respin of Arch Linux with a focus on simplicity and speed. T
 <details>
     <summary>Other projects:</summary>
 
-    - [Portfolio](https://lewoof.xyz)
-    - [Repositories](https://github.com/ACuteWoof?tab=repositories)
+- [Portfolio](https://lewoof.xyz)
+- [Repositories](https://github.com/ACuteWoof?tab=repositories)
 
 </details>
 

@@ -8,11 +8,33 @@ I'm a student with passion for technology - especially open source.
 
 I have a few open source projects that you can check out so that I shall be judged by you, the beholder:
 
-- [Woof Press](https://press.lewoof.xyz)
-- [Woof OS](https://os.lewoof.xyz)
-- Other projects:
-  - [Portfolio](https://lewoof.xyz)
-  - [Repositories](https://github.com/ACuteWoof?tab=repositories)
+<details>
+    <summary>[Woof Press](https://press.lewoof.xyz)</summary>
+
+    When I started learning Latin, I was unironically shocked by the fact that it was hard to find copies of old books that used the dead language. This project aims to overcome this issue by printing old books requested by you (the reader) with or without translation.
+
+    - [Site](https://press.lewoof.xyz)
+    - [Site source code](https://github.com/acutewoof/print-books-href)
+
+</details>
+
+<details>
+    <summary>[Woof OS](https://os.lewoof.xyz)</summary>
+
+    Woof OS is a simple respin of Arch Linux with a focus on simplicity and speed. The main focus was to recreate my personal setup (only applies to the Qtile edition) in a way that is easy for install and get up and running quickly. The distro is designed to be a daily driver for those who want a system close to Arch Linux without the hassle of setting up everything from scratch.
+
+    - [Site](https://os.lewoof.xyz)
+    - [Organisation](https://github.com/woof-os)
+
+</details>
+
+<details>
+    <summary>Other projects:</summary>
+
+    - [Portfolio](https://lewoof.xyz)
+    - [Repositories](https://github.com/ACuteWoof?tab=repositories)
+
+</details>
 
 ## Contact me
 

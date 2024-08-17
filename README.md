@@ -2,9 +2,9 @@
 
 [Personal Site](https://lewoof.xyz/)
 
-[Kreatis.IO](https://kreatis.io/)
-
 [Woof Press](https://press.lewoof.xyz)
+
+[Kreatis.IO](https://kreatis.io/)
 
 [Woof OS](https://os.lewoof.xyz)
 

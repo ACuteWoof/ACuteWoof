@@ -11,20 +11,20 @@ I have a few open source projects that you can check out so that I shall be judg
 <details>
     <summary><a href="https://press.lewoof.xyz">Woof Press</a></summary>
 
-    When I started learning Latin, I was unironically shocked by the fact that it was hard to find copies of old books that used the dead language. This project aims to overcome this issue by printing old books requested by you (the reader) with or without translation.
+When I started learning Latin, I was unironically shocked by the fact that it was hard to find copies of old books that used the dead language. This project aims to overcome this issue by printing old books requested by you (the reader) with or without translation.
 
-    - [Site](https://press.lewoof.xyz)
-    - [Site source code](https://github.com/acutewoof/print-books-href)
+- [Site](https://press.lewoof.xyz)
+- [Site source code](https://github.com/acutewoof/print-books-href)
 
 </details>
 
 <details>
     <summary><a href="https://os.lewoof.xyz">Woof OS</a></summary>
 
-    Woof OS is a simple respin of Arch Linux with a focus on simplicity and speed. The main focus was to recreate my personal setup (only applies to the Qtile edition) in a way that is easy for install and get up and running quickly. The distro is designed to be a daily driver for those who want a system close to Arch Linux without the hassle of setting up everything from scratch.
+Woof OS is a simple respin of Arch Linux with a focus on simplicity and speed. The main focus was to recreate my personal setup (only applies to the Qtile edition) in a way that is easy for install and get up and running quickly. The distro is designed to be a daily driver for those who want a system close to Arch Linux without the hassle of setting up everything from scratch.
 
-    - [Site](https://os.lewoof.xyz)
-    - [Organisation](https://github.com/woof-os)
+- [Site](https://os.lewoof.xyz)
+- [Organisation](https://github.com/woof-os)
 
 </details>
 

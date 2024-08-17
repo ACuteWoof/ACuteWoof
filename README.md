@@ -44,6 +44,7 @@ Woof OS is a simple respin of Arch Linux with a focus on simplicity and speed. T
 I'm available on the following platforms, you can usually expect a response within 3 days.
 
 - Discord: @acutewoof
+- LinkedIn: [Vithushan](https://linkedin.com/in/vithushan-sutharsan-849b99243)
 - Email: sutharshanvithushan@gmail.com
 - Instagram: [@acutewoof](https://instagram.com/acutewoof)
 

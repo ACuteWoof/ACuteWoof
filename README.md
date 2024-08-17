@@ -1,6 +1,6 @@
 # Hi, I'm Vithushan
 
-[lewoof.xyz](https://lewoof.xyz)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lewoof.xyz) [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acutewoof)
 
 ## Who am I?
 
@@ -45,8 +45,6 @@ I'm available on the following platforms, you can usually expect a response with
 - Instagram: [@acutewoof](https://instagram.com/acutewoof)
 
 ## Support me
-
-[![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/acutewoof)
 
 If you want to donate:
 

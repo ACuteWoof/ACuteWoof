@@ -4,7 +4,7 @@
 
 ## Who am I?
 
-I'm a student who just left school to study Software Engineering in an HND program, with passion for technology - especially open source.
+I'm a student with passion for technology - especially open source.
 
 I have a few open source projects that you can check out so that I shall be judged by you, the beholder:
 

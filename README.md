@@ -10,7 +10,7 @@ I have a few open source projects that you can check out so that I shall be judg
 
 - [Woof Press](https://press.lewoof.xyz)
 - [Woof OS](https://os.lewoof.xyz)
-- Other projects...
+- Other projects:
   - [Portfolio](https://lewoof.xyz)
   - [Repositories](https://github.com/ACuteWoof?tab=repositories)
 

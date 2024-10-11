@@ -1,4 +1,4 @@
-# Hi, I'm Vithushan
+# Hi, I'm Vithushan.
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://lewoof.xyz)
 

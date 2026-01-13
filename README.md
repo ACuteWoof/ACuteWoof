@@ -42,18 +42,16 @@ Woof OS is a simple respin of Arch Linux with a focus on simplicity and speed. T
 
 ## Contact me
 
-I'm available on the following platforms, you can usually expect a response within 3 days.
+I'm available on the following platforms, you can usually expect a response within a few days.
 
 - Discord: @schizophrenicsegfault
 - LinkedIn: [Vithushan](https://linkedin.com/in/vithushan-sutharsan-849b99243)
-- Email: sutharshanvithushan@gmail.com
-- Instagram: [@acutewoof](https://instagram.com/acutewoof)
+- Email: contact@lewoof.xyz
 
 ## Support me
 
 If you want to donate:
 
-- Monero: `AvKjLpQzaE8Aj8A4vgRyuUYsX7GdGo8SddcmMiHf1H2L55CGMUxKUmZUovZtWRkw9LuE4Zr6PRzQg9ivMeueGwa38YHx7u`
 - Solana: `JDkK2kpBmPm6YyYnLYNHpw8FhKyZ9AQ2CQTqj6BQxFKY`
 - Bitcoin (native segwit): `bc1qh5m8v9xyd8l4yc7d3qfs5a83rqk3eukcjlw6sh`
 - Buymeacoffee: [acutewoof](https://buymeacoffee.com/acutewoof)

@@ -27,16 +27,15 @@ distro](https://os.lewoof.xyz)
 
 ### /docs/
 
-- [/docs/rosary](/docs/rosary): mysteries of the Rosary with passages
+- [/docs/rosary](https://lewoof.xyz/docs/rosary): mysteries of the Rosary with passages
   from Scripture, and Latin prayers
-- [/docs/study](/docs/study): guidance from the Angelic Doctor, St.
+- [/docs/study](https://lewoof.xyz/docs/study): guidance from the Angelic Doctor, St.
   Thomas Aquinas, on how to study
-- [/docs/links](/docs/links): links to useful webpages
+- [/docs/links](https://lewoof.xyz/docs/links): links to useful webpages
 
-### /api/
+### /posts/
 
-- [/api/index.go](/api/index.go): the API used for the [text box
-  below](https://www.lewoof.xyz/#contact) to send messages
+- [/posts/pgp](https://lewoof.xyz/posts/pgp): encrypting messages on platforms that suck
 
 ## Self hosted
 

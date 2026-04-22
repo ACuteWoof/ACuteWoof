@@ -85,7 +85,6 @@ come back to this section.
   * Matrix: [@woof:matrix.lewoof.xyz](https://matrix.to/#/@woof:matrix.lewoof.xyz)
   * XMPP: lewoof@anonlounge.xyz 
   * Github: [acutewoof](https://github.com/acutewoof)
-  * Solana: JDkK2kpBmPm6YyYnLYNHpw8FhKyZ9AQ2CQTqj6BQxFKY 
-  * Monero: 47DAoKGaa2UF1nL7M5wvdnhqapAuSnLKACTbhYGEbAYicjdDra1HnnKNUy4bzrL4voRrwP44y3MYX7vmdY4X8HJv3oB6erS 
-  * Bitcoin (native segwit): bc1qh5m8v9xyd8l4yc7d3qfs5a83rqk3eukcjlw6sh 
+  * Solana: GHHPYZDDyXmwPLnQPEBgXAD9FzZmDPhCbVRpgqxuEpQ3 
+  * Bitcoin (native segwit): bc1qqzqw40g566rmyvafrccjagktmd9nqvyqwcz6jh 
   * BuyMeACoffee: [acutewoof](https://www.buymeacoffee.com/acutewoof)

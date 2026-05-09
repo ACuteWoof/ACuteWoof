@@ -6,7 +6,7 @@ What follows is a markdown rendering of https://lewoof.xyz.
 
 I use computers, and sometimes I don't dislike them
 
-[Book store](https://ashesandink.store) [Arch respin](https://os.lewoof.xyz) [Git](https://git.lewoof.xyz)
+[Book store](https://books.lewoof.xyz) [Arch respin](https://os.lewoof.xyz) [Git](https://git.lewoof.xyz)
 
 ## Sitemap
 
@@ -26,7 +26,7 @@ the other lists here.
   * [/docs/rosary](https://lewoof.xyz/docs/rosary): mysteries of the Rosary with passages from Scripture, and Latin prayers 
   * [/docs/study](https://lewoof.xyz/docs/study): guidance from the Angelic Doctor, St. Thomas Aquinas, on how to study 
   * [/docs/links](https://lewoof.xyz/docs/links): links to useful webpages 
-  * [/docs/optatus](https://lewoof.xyz/docs/optatus): the work of St. Optatus; physical copies sold on [Ashes & Ink](https://ashesandink.store)
+  * [/docs/optatus](https://lewoof.xyz/docs/optatus): the work of St. Optatus; physical copies sold on [Ashes & Ink](https://books.lewoof.xyz)
 
 ### /posts/
 
@@ -62,7 +62,7 @@ can purchase a hard disk for it.
 ## Other subdomains
 
   * [bugs.lewoof.xyz](https://bugs.lewoof.xyz): BugsArchive, a compendium of computer science 
-  * [press.lewoof.xyz](https://press.lewoof.xyz): WoofPress, printing old books on request (see [Ashes & Ink](https://ashesandink.store)) 
+  * [press.lewoof.xyz](https://press.lewoof.xyz): WoofPress, printing old books on request (see [Ashes & Ink](https://books.lewoof.xyz)) 
   * [os.lewoof.xyz](https://os.lewoof.xyz): Woof OS, Arch Linux respin with my configs 
   * [repo.os.lewoof.xyz](https://repo.os.lewoof.xyz): Woof OS repository Github page 
   * [rmd.lewoof.xyz](https://rmd.lewoof.xyz): rmd, just a nice markdown renderer 
